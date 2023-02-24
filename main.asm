@@ -15,6 +15,7 @@
 ; R9- Register for PressB binary counter
 ; R10- Register for PressC rotating counter
 ; R11- Register for PressA toggle counter
+; R12- Register for PressD sequence counter
 ;
 ;-------------------------------------------------------------------------------
             .cdecls C,LIST,"msp430.h"       ; Include device header file
